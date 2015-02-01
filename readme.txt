@@ -21,4 +21,4 @@ DeTaxo provides column to have link to de-attach the post from the category, No 
 
 == Screenshots ==
 
-1. /assets/screenshot-1.jpg
+1. assets/screenshot-1.jpg
