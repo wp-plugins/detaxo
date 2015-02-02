@@ -2,7 +2,7 @@
 /*
   Plugin Name: DeTaxo
   Plugin URI:
-  Description: Remove post from category/taxonomy on the fly with just onclick from post list table it self.
+  Description: Remove post from category/taxonomy on the fly with just one click from post list it self, No need to Quick edit.
   Author: Harish Moghe
   Version: 1.0
   Author URI: http://goo.gl/2zlk6H
