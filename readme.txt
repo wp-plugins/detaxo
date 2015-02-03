@@ -24,9 +24,7 @@ DeTaxo provides column to have link to de-attach the post from the category, No 
 1. assets/screenshot-1.jpg
 
 == changelog ==
-
 = 1.1 =
 Removed Depricated jQuery methods.
-
 = 1.0 =
 First version.
