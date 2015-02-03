@@ -3,8 +3,8 @@ Contributors: wp_harish
 Donate link: 
 Tags: Wordpress, Harish Moghe, Detaxo, Taxonomy, post lists, post management, taxonomy management, category management, post category management,custom posts, custom post management, custom taxonomy
 Requires at least: 3.0.1
-Tested up to: 3.9
-Stable tag: 3.9
+Tested up to: 4.1
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,5 @@ Removed deprecated jQuery methods.
 First version.
 
 == Upgrade Notice ==
-
 = 1.1 =
 Removed deprecated methods
