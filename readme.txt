@@ -25,6 +25,11 @@ DeTaxo provides column to have link to de-attach the post from the category, No 
 
 == changelog ==
 = 1.1 =
-Removed Depricated jQuery methods.
+Removed deprecated jQuery methods.
 = 1.0 =
 First version.
+
+== Upgrade Notice ==
+
+= 1.1 =
+Removed deprecated methods
