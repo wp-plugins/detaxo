@@ -5,7 +5,7 @@
 
 
 jQuery(document).ready(function() {
-    jQuery(".custom_link_detach_category").live("click", function() {
+    jQuery(".custom_link_detach_category").on("click", function() {
         var id = jQuery(this).attr("id");
         var arrVal = id.split("_");
         var cat_id = arrVal[1];

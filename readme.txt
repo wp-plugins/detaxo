@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 While using category filter on posts list in wordpress backend . Some where you found that the post is listed in wrong category.
-DeTaxo provides column to have link to de-attach the post from the category, No need to quick edit or edit post. deTaxo removes category from post on the fly with just one click.
+DeTaxo provides column to have link to de-attach the post from the category, No need to quick edit or edit post. deTaxo removes post from category on the fly with just one click.
 
 == Installation ==
 
